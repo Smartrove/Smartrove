@@ -11,15 +11,15 @@ I am a Software Developer from Nigeria. I love coding, I love new ideas and I lo
 
 ## Expertise
 ### Frontend: 
-  - CSS: CSS, Material UI, Tailwindcss, Bootstrap, Styled-Components.
-  - Javascript: React, NextJs.
-  - Typescript.
-  - HTML.
-  - Redux: React-Redux, Redux Toolkit.
-  - Testing: Jest.
-  - Realtime Database: Firebase.
+    - CSS: CSS, Material UI, Tailwindcss, Bootstrap, Styled-Components.
+    - Javascript: React, NextJs.
+    - Typescript.
+    - HTML.
+    - Redux: React-Redux, Redux Toolkit.
+    - Testing: Jest.
+    - Realtime Database: Firebase.
     
-### Backend
+### Backend:
     - Node: Express.
     - Database: MongoDB, PostgreSQL, MySQL.
 <!--
