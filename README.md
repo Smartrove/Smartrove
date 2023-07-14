@@ -17,7 +17,7 @@ I am a Software Developer from Nigeria. I love coding, I love new ideas and I lo
     - HTML.
     - Redux: React-Redux, Redux Toolkit.
     - Testing: Jest.
-    - Realtime Database: Firebase.
+    - Realtime Database: Firebase, Supabase.
     
 ### Backend:
     - Node: Express.
