@@ -18,6 +18,7 @@ I am a Software Developer from Nigeria. I love coding, I love new ideas and I lo
     - Redux: React-Redux, Redux Toolkit.
     - Testing: Jest.
     - Realtime Database: Firebase, Supabase.
+    - Cloud: Vercel, Render, Heroku.
     
 ### Backend:
     - Node: Express.
