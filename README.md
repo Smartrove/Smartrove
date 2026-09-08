@@ -31,10 +31,10 @@ When I’m not coding, I enjoy reading, playing football ⚽, or exploring new t
 - 🎨 **Styling:** Tailwind CSS, Material UI, Styled-Components, Bootstrap, CSS3  
 - 🔄 **State Management:** Redux, Redux Toolkit  
 - 🧪 **Testing:** Jest  
-- ☁️ **Realtime & Cloud:** Firebase, Supabase, Vercel, Render, Heroku  
+- ☁️ **Realtime & Cloud:** Firebase, Supabase, Vercel, Render, Heroku, AWS, Socket.io, Redis, BullMQ, Docker  
 
 #### ⚙️ **Backend**
-- 🚀 **Runtime & Framework:** Node.js, Express.js  
+- 🚀 **Runtime & Framework:** Node.js, Express.js, Nestjs  
 - 🗃️ **Databases:** MongoDB, PostgreSQL, MySQL  
 
 #### 💻 **System Environment**
